@@ -1,19 +1,19 @@
-# Steam Searcher
+# Steam Searcher - Closer Match
 
 [![NPM][npm-image]][npm-url]
 
 Steam Searcher is a module for getting information on Steam Games. What ever game you search for, this will pull the first result from the Steam API, and return it as a JSON.
 
 ## Installation
+coming soon
 
-```bash
-npm install steam-searcher
-```
+##Note:
+Below is from the original author's readme.md, which still applies. I've only changed one line.
 
 ## Usage Example
 
 ```javascript
-var steam = require('steam-searcher')
+var steam = require('steam-searcher-cm')
 
 steam.find({ search: 'Hitman 2' }, function (err, game) {
     if (err) console.log(err);
