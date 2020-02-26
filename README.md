@@ -1,5 +1,8 @@
 # Steam Searcher - Closer Match
 
+The original repository is at the link below
+https://github.com/MAPReiff/Steam-Game-Search-NPM
+
 ## Installation
 coming soon
 
