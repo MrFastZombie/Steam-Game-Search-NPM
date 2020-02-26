@@ -1,13 +1,9 @@
 # Steam Searcher - Closer Match
 
-[![NPM][npm-image]][npm-url]
-
-Steam Searcher is a module for getting information on Steam Games. What ever game you search for, this will pull the first result from the Steam API, and return it as a JSON.
-
 ## Installation
 coming soon
 
-##Note:
+## Note:
 Below is from the original author's readme.md, which still applies. I've only changed one line.
 
 ## Usage Example
