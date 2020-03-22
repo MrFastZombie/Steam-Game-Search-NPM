@@ -1,3 +1,4 @@
+# NOTE: I have not even really worked on this yet, so don't expect it to work differently yet
 # Steam Searcher - Closer Match
 
 The original repository is at the link below
